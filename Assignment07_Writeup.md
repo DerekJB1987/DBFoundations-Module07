@@ -31,8 +31,7 @@ SELECT * FROM fProductInventoriesWithPreviousMonthCountsWithKPIs(0) ORDER BY 1,2
 *Figure 1: Example of SQL code where a user created a custom UDF that uses a KPI integer value as a parameter to generate the list of every product (names) that qualifies with that inputted parameter of 0.*
 
 
-
-(Screenshot 2023-11-27 at 5.06.41 PM.jpg)
+![alt text](Image 1.jpg)
  
 
 *Figure 2: Retrieved results from the UDF shown in Figure 1 above.*
