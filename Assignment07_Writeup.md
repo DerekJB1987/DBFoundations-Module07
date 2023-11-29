@@ -4,8 +4,8 @@
 ### Assignment 7
 https://github.com/DerekJB1987/DBFoundations-Module07
 
-#Functions
-##Introduction
+# Functions
+## Introduction
 
 This week I started diving deeper into the power of SQL functions and how they are used to retrieve information from a database.
 ## When to use a SQL UDF (User Defined Functions)
@@ -31,7 +31,7 @@ SELECT * FROM fProductInventoriesWithPreviousMonthCountsWithKPIs(0) ORDER BY 1,2
 *Figure 1: Example of SQL code where a user created a custom UDF that uses a KPI integer value as a parameter to generate the list of every product (names) that qualifies with that inputted parameter of 0.*
 
 
-![alt text]Image 1.jpg
+![SQL code](https://github.com/DerekJB1987/DBFoundations-Module07.git/main/Image 1.jpg)
  
 
 *Figure 2: Retrieved results from the UDF shown in Figure 1 above.*
